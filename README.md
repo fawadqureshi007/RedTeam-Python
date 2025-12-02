@@ -1,4 +1,4 @@
-# 🔥 RedTeam-Python
+# 🔥 RedTeam-Attacks
 A collection of Python scripts and tools for **ethical hacking**, **red team operations**, and **penetration testing**.  
 This repository is designed for **learning, research, and authorized security assessments only**.
 
